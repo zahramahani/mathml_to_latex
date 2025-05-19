@@ -1,0 +1,2 @@
+ipython==8.12.3
+selectolax==0.3.29
